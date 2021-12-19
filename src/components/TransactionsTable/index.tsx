@@ -32,27 +32,6 @@ export function TransactionsTable(){
             <td>Alimentação</td>
             <td>27/03/2021</td>
           </tr>
-
-          <tr>
-            <td>Manutenção do Carro</td>
-            <td className="withdraw">R$300</td>
-            <td>Transporte</td>
-            <td>27/03/2021</td>
-          </tr>
-
-          <tr>
-            <td>Aluguel</td>
-            <td className="withdraw">R$1.100</td>
-            <td>Renda</td>
-            <td>27/03/2021</td>
-          </tr>
-
-          <tr>
-            <td>Desenvolvimento de Um Dashboard Web</td>
-            <td className="deposit">R$18.000</td>
-            <td>Desenvolvimento</td>
-            <td>27/03/2021</td>
-          </tr>
         <tbody>
 
         </tbody>
